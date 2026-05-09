@@ -1,4 +1,4 @@
-# 🧾 AI Transaction Extraction Assistant
+# 🧾 AI Transaction Extraction
 
 > **Automate your accounting workflow.** Drop payment screenshots → AI extracts structured transaction data → Save & Export. 100% Offline & Private.
 
